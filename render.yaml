@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: gms
+    name: hypr
     env: node
     plan: free
     startCommand: node .
